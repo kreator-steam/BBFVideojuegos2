@@ -12,6 +12,6 @@ public class HolaMundo : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         frame++;
-        Debug.Log("Hola frame: " + frame);
+       // Debug.Log("Hola frame: " + frame);
     }
 }
